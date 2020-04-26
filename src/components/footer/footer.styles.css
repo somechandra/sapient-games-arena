@@ -1,0 +1,22 @@
+.Footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+  display: table;
+  text-align: center;
+  font-weight: bold;
+  background: linear-gradient(
+    to bottom,
+    #f3e8ae,
+    #f1e6b1,
+    #ede4b7,
+    #efe5ba,
+    #f7ecb4
+  );
+}
+
+.Footer div {
+  display: table-cell;
+  vertical-align: middle;
+}

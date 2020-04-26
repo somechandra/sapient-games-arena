@@ -1,0 +1,13 @@
+.App {
+  background: linear-gradient(
+    to bottom,
+    #fff1ab,
+    #fff4c0,
+    #ede5bf,
+    #f5f0d8,
+    #f3efdc
+  );
+  height: 100%;
+  min-height: 100vh;
+  position: relative;
+}

@@ -1,0 +1,17 @@
+.GameCard {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  padding-bottom: 50px;
+}
+
+.GameCard .card {
+  margin: 10px 10px;
+  width: 18rem;
+  text-transform: capitalize;
+}
+
+.pagination-main-header {
+  padding-left: 15px;
+  padding-right: 15px;
+}
